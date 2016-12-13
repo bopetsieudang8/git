@@ -24,7 +24,7 @@ $db= new DB();
   ?>
 </header>
 <?php 
-	include"include/menu.php";
+	include"include/menua.php"; //da sua menu thanh cong
 ?>
 <body>
 <section>
